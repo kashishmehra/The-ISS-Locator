@@ -7,6 +7,8 @@ This project will show how to locate the International Space Station in realtime
 It will
 
 -track the International Space Station using Rest APIs
+
 -forecast using univariate data
+
 -run a linear and polynomial regression in Python
 
