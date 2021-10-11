@@ -13,3 +13,4 @@ It will
 -run a linear and polynomial regression in Python
 
 
+## Methodology
