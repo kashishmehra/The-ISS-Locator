@@ -12,3 +12,4 @@ It will
 
 -run a linear and polynomial regression in Python
 
+## Screenshots of the web apllication
