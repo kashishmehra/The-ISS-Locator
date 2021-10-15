@@ -13,4 +13,19 @@ It will
 -run a linear and polynomial regression in Python
 
 
-## Methodology
+
+### Methodology
+
+- Got the names of astronauts currently on board
+
+- Got the realtime location of the ISS
+
+- Plotted the ISS on a world map
+
+-Tracked and collected the ISS position for historic analysis
+
+- Modeled ISS location data using both linear and polynomial regressions
+
+- Created a real mobile Web Application on the cloud so you can use your phone to share the location of the ISS to all your friends
+
+- Added a link to the official ISS live feed
